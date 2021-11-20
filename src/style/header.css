@@ -1,0 +1,15 @@
+.root {
+    flex-grow: 1;
+    background: #efefef;
+}
+.menuButton {
+    margin-right: 2px;
+}
+.title {
+    flex-grow: 1;
+    text-align: center;
+}
+.logo {
+    max-width: 140px;
+    margin: 5px;
+}
